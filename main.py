@@ -7,3 +7,4 @@ for i in range(0,len(list)):
         sum += list[i][j]
 
 print(sum)
+print("Hello World")

@@ -1,5 +1,6 @@
 list = [[1,2,3],[2,4],[4,5,5]]
 
+print("Just adding something here too")
 #finding sum 
 sum = 0
 for i in range(0,len(list)):
